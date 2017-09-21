@@ -43,7 +43,7 @@ body {
 }
 
 .productinfo{
-    margin-top: 40px;
+    margin-top: 10px;
     margin-bottom: 20px;
 }
 
@@ -52,7 +52,7 @@ body {
 div.tab {
     overflow: hidden;
     border: 1px solid #ccc;
-    background-color: #f1f1f1;
+    background-color: #f1f1f1;    
 }
 
 /* Style the buttons inside the tab */
@@ -64,6 +64,7 @@ div.tab button {
     cursor: pointer;
     padding: 14px 16px;
     transition: 0.3s;
+    font-size: 17px; 
 }
 
 /* Change background color of buttons on hover */
