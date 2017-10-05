@@ -114,3 +114,25 @@ body {
   bottom: 0;
   width: 100%;
 }
+
+
+@media screen and (max-width:767px){
+ #brandlogo{
+   max-width: 37px;
+   margin-top: -20px;
+ }
+ .navbar-nav{
+   text-align: center;
+ }
+ .footer{
+   height: auto;
+   position: relative;
+ }
+ .wrapper{
+   padding-bottom: 0
+ }
+ .row{
+   width: 100%;
+   margin: 0;
+ }
+}
